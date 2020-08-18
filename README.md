@@ -9,11 +9,11 @@ Nils Mäurer, Thomas Gräupl: Institute of Communication and Navigation, German 
 
 Christoph Gentsch, Rohan Krishnamurthy: Institute of Data Science, German Aerospace Center (DLR), Jena, Germany
 
-**Paper**
+## **Paper**
 
 - Conference details for publication
 
-**File structure:**
+## **File structure:**
 
 - `ldacs_auth_gsc_as.spthy`
 
