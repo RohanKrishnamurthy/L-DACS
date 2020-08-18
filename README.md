@@ -4,7 +4,9 @@ The contribution of this paper is the formal proof of the security of this proto
 This constitutes an important step for the development of the general LDACS cybersecurity architecture since authentication and key establishment are the most crucial steps in establishing secure wireless communication.
 
 Authors: 
+
 Nils Mäurer, Thomas Gräupl: Institute of Communication and Navigation, German Aerospace Center (DLR), Wessling, Germany
+
 Christoph Gentsch, Rohan Krishnamurthy: Institute of Data Science, German Aerospace Center (DLR), Jena, Germany
 
 **Paper**
@@ -16,6 +18,10 @@ Christoph Gentsch, Rohan Krishnamurthy: Institute of Data Science, German Aerosp
 - `ldacs_auth_gsc_as.spthy`
 
   - contains a formal analysis of the proposed mutual authentication and key agreement protocols of LDACS and to prove their security.
+  
+- `tamarin.png`
+
+  - contains a grpahical output of the proof of MAKE protocol 
   
 
 ## The Tamarin prover repository
