@@ -3,7 +3,7 @@
 The contribution of this paper is the formal proof of the security of this protocol. Using the symbolic model checker Tamarin, we could build a mathematical, formal model of the LDACS MAKE procedure and following several security objectives that this procedure must fulfill, we derived several provable lemmata for Tamarin. Tamarin finally proved that the LDACS MAKE procedure is secure in the standard model and is proven to have no design flaws in its architecture.
 This constitutes an important step for the development of the general LDACS cybersecurity architecture since authentication and key establishment are the most crucial steps in establishing secure wireless communication.
 
-Authors: 
+## Authors: 
 
 Nils Mäurer, Thomas Gräupl: Institute of Communication and Navigation, German Aerospace Center (DLR), Wessling, Germany
 
